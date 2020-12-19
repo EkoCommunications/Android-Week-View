@@ -119,7 +119,7 @@
             <enum name="serif" value="2" />
             <enum name="monospace" value="3" />
         </attr>
-        <attr name="textStyle">
+        <attr name="textStyleName">
             <flag name="normal" value="0" />
             <flag name="bold" value="1" />
             <flag name="italic" value="2" />
